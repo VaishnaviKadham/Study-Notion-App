@@ -57,7 +57,7 @@ For Instructors:
 
 To build the front-end, we use frameworks and libraries such as ReactJS, CSS, and Tailwind for styling, and Redux for state management.
 
-### Back-end
+<!-- ### Back-end
 
 The back-end of the platform is built using NodeJS and ExpressJS, providing APIs for the front-end to consume. These APIs include functionalities such as user authentication, course creation, and course consumption. The back-end also handles the logic for processing and storing the course content and user data.
 
@@ -128,6 +128,7 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 3. Start the React development server: `npm start`
 
 Access the application in your browser at `http://localhost:3000`.
+-->
 
 
 
