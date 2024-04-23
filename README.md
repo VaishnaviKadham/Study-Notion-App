@@ -11,13 +11,14 @@ StudyNotion is a fully functional EdTech platform that enables users to create, 
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
   - [Front-end](#front-end)
-  - [Back-end](#back-end)
+ <!--  - [Back-end](#back-end)
   - [Database](#database)
   - [Architecture Diagram](#architecture-diagram)
 - [API Design](#api-design)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
+-->
 
 
 ## Introduction
