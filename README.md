@@ -11,14 +11,14 @@ StudyNotion is a fully functional EdTech platform that enables users to create, 
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
   - [Front-end](#front-end)
- <!--  - [Back-end](#back-end)
+  - [Back-end](#back-end)
   - [Database](#database)
   - [Architecture Diagram](#architecture-diagram)
 - [API Design](#api-design)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
--->
+
 
 
 ## Introduction
@@ -58,7 +58,7 @@ For Instructors:
 
 To build the front-end, we use frameworks and libraries such as ReactJS, CSS, and Tailwind for styling, and Redux for state management.
 
-<!-- ### Back-end
+ ### Back-end
 
 The back-end of the platform is built using NodeJS and ExpressJS, providing APIs for the front-end to consume. These APIs include functionalities such as user authentication, course creation, and course consumption. The back-end also handles the logic for processing and storing the course content and user data.
 
@@ -129,7 +129,7 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 3. Start the React development server: `npm start`
 
 Access the application in your browser at `http://localhost:3000`.
--->
+
 
 
 
